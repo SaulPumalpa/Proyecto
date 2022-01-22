@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SISTEMA_DE_PEDIDOS.Page1">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="ADMINISTRADOR" FontSize="18" BackgroundColor="Yellow" HorizontalTextAlignment="Center" 
+                   TextColor="Black"/>
+            <Entry x:Name="txtUsuario" Placeholder="Ingrese el usuario"/>
+            <Entry x:Name="txtContraseña" Placeholder="Ingrese la contraseña" IsPassword="True"/>
+            <Button x:Name="btnIngresar" FontSize="20" Text="INGRESAR" Clicked="btnIngresar_Clicked"
+                    BackgroundColor="SkyBlue"  CornerRadius="10" Margin="100,0,100,0" TextColor="Red"/>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\bin\Debug\netstandard2.0\SISTEMA-DE-PEDIDOS.deps.json
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\bin\Debug\netstandard2.0\SISTEMA-DE-PEDIDOS.dll
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\bin\Debug\netstandard2.0\ref\SISTEMA-DE-PEDIDOS.dll
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\bin\Debug\netstandard2.0\SISTEMA-DE-PEDIDOS.pdb
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\obj\Debug\netstandard2.0\SISTEMA-DE-PEDIDOS.csproj.AssemblyReference.cache
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\obj\Debug\netstandard2.0\SISTEMA-DE-PEDIDOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\obj\Debug\netstandard2.0\SISTEMA-DE-PEDIDOS.AssemblyInfoInputs.cache
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\obj\Debug\netstandard2.0\SISTEMA-DE-PEDIDOS.AssemblyInfo.cs
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\obj\Debug\netstandard2.0\SISTEMA-DE-PEDIDOS.csproj.CoreCompileInputs.cache
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\obj\Debug\netstandard2.0\SISTEMA-DE-PEDIDOS.dll
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\obj\Debug\netstandard2.0\ref\SISTEMA-DE-PEDIDOS.dll
+C:\Users\yadir\source\repos\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\SISTEMA-DE-PEDIDOS\obj\Debug\netstandard2.0\SISTEMA-DE-PEDIDOS.pdb

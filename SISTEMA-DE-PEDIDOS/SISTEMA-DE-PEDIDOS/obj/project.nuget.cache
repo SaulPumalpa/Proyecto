@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xuzv8Y7ii6giyDkqfMtAqnR+1Xqo9cYx1pVjOahR2+g1Xeb6zZG8Vo+tYuCKVWNszIvh9EFX/Nm6ERHShk7s/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yadir\\source\\repos\\SISTEMA-DE-PEDIDOS\\SISTEMA-DE-PEDIDOS\\SISTEMA-DE-PEDIDOS\\SISTEMA-DE-PEDIDOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yadir\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\yadir\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\yadir\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\yadir\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\yadir\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\yadir\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SISTEMA_DE_PEDIDOS.MainPage">
+    <ContentPage.Content>
+        
+    
+        <StackLayout>
+            <Label Text="MENU" FontSize="18" BackgroundColor="Yellow" HorizontalTextAlignment="Center" TextColor="Black"/>   
+            <Label Text="Restaurante" BackgroundColor="Coral"  FontSize="Title" HorizontalTextAlignment="Center" TextColor="White"/>
+            <Image Source="logo.jpg" WidthRequest="60" HeightRequest="190" Aspect="Fill"></Image>
+
+                
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
