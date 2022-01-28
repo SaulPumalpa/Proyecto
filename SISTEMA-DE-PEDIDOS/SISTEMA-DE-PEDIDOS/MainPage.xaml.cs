@@ -11,9 +11,9 @@ namespace SISTEMA_DE_PEDIDOS
     public partial class MainPage : ContentPage
     {
         
-        public MainPage()
-        {
-            
-        }
+       // public MainPage()
+        //{
+        //    
+       // }
     }
 }

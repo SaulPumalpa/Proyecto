@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SISTEMA_DE_PEDIDOS.Views;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,7 +26,7 @@ public partial class Page1 : ContentPage
             if (txtUsuario.Text == usuario && txtContraseña.Text == contraseña)
             {
                 usuario = txtUsuario.Text;
-                Navigation.PushAsync(new agregarPlatos());
+                Navigation.PushAsync(new AgregarPlato());
                 // abrir pantalla  de registro y enviar usuario
                 DisplayAlert("USUARIO CONECTADO", "BIENVENIDO", "Cerrar");
             }

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:SISTEMA_DE_PEDIDOS.ViewModels"
+             x:Class="SISTEMA_DE_PEDIDOS.Views.AgregarPlato">
+
+    <ContentPage.BindingContext>
+        <viewmodels:PlatoModel/>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="AGREGAR PLATOS" BackgroundColor="Yellow" FontSize="18" HorizontalTextAlignment="Center" TextColor="Black"/>
+
+            <Label  Text="Ingrese los platos llenando todos los capos: " FontSize="14" TextColor="Black" />
+            <Entry Text="{Binding Plato.Codigo}" Placeholder="Ingrese Codigo"  Keyboard="Text" />
+            <Entry Text="{Binding Plato.Nombre}" Placeholder="Ingrese Nombre"  Keyboard="Text" />
+            <Entry Text="{Binding Plato.Precio}" Placeholder="Ingrese precio" Keyboard="Numeric" MaxLength="4"/>
+            <Entry Text="{Binding Plato.Categoria}" Placeholder="Ingrese categoria" Keyboard="Text" />
+            <Entry Text="{Binding Plato.Descripcion}" Placeholder="Ingrese categoria" Keyboard="Text" />
+            <Image  x:Name="{Binding Plato.Imagen} "></Image>
+            <Button Text="Tomar foto" Clicked="Button_ClickedTomarFoto"></Button>
+            <Button Text="Subir foto" Clicked="Button_ClickedSubirFoto"></Button>
+            <Button Text="Insertar" Clicked="Button_ClickedAgregar" Command="{Binding InsertarPLato}"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
